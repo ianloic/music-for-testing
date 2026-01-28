@@ -11,6 +11,9 @@ during development.
 Check out [the mix on the Free Music
 Archive](https://freemusicarchive.org/member/ian-mckellar/music-for-testing/).
 
+Since this is a mix of CC BY and CC BY-SA tracks the collection as a whole is
+licensed as [CC BY-SA](https://creativecommons.org/licenses/by-sa/)
+
 ## Tracks
 
 - [Juanitos - Exotica](<Juanitos - Exotica.mp3>) (CC BY)
